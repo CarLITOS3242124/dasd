@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('fondo5.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #ff4081;
+    padding: 20px;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.mensaje {
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+.cupones button {
+    background: #ff4081;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.imagenes img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}

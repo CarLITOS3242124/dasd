@@ -1,0 +1,32 @@
+.contenedor {
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 221, 225, 0.9); /* Semi-transparent pink */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+#boton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#mensaje {
+    margin-top: 10px;
+    font-size: 40px;
+    color: #ff69b4;
+}
+.TITULO{
+    
+    background: rgba(255, 221, 225, 0.9); /* Semi-transparent pink */
+    color: #d41273;
+    font-size: 60px 60px 60px 10px;
+}
